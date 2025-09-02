@@ -1,0 +1,105 @@
+order_id,timestamp,store_id,pizza_size,toppings,total_price
+1001,08/30/2025 18:45:00,KY001,Large,Pepperoni;Mushroom,18.99
+1002,08/30/2025 19:10:00,TN002,Medium,Cheese;Olives,14.5
+1003,08/30/2025 20:05:00,IN003,Small,Sausage;Onion,12.75
+1004,08/31/2025 12:30:00,KY001,Large,Bacon;Green Peppers,19.25
+1005,08/31/2025 02:59:36,IN003,Medium,Green Peppers;Cheese;Olives,15.19
+1006,08/30/2025 21:31:36,KY001,Small,,10.45
+1007,08/28/2025 15:08:36,IN003,Small,Pepperoni,12.11
+1008,08/28/2025 19:01:36,TN005,Small,Bacon;Green Peppers,17.4
+1009,08/30/2025 22:25:36,TN003,Large,Mushroom;Pepperoni;Onion,13.57
+1010,08/28/2025 08:48:36,TN002,Small,Onion;Bacon;Cheese,11.44
+1011,08/27/2025 01:38:36,TN004,Large,,19.39
+1012,08/30/2025 14:11:36,IN003,Medium,Green Peppers;Onion;Pepperoni,11.77
+1013,09/01/2025 05:39:36,TN002,Medium,Bacon;Olives,10.53
+1014,08/27/2025 06:12:36,TN001,Medium,Pineapple;Sausage;Onion,17.78
+1015,,TN001,Medium,Olives,17.64
+1016,08/30/2025 09:38:36,IN003,Small,Pineapple;Cheese,19.97
+1017,08/30/2025 01:50:36,KY001,Medium,Bacon;Pepperoni;Olives,20.11
+1018,08/29/2025 09:27:36,IN003,Large,Green Peppers,19.25
+1019,08/27/2025 15:31:36,IN003,Large,Onion,20.09
+1020,08/31/2025 11:05:36,TN005,Large,,19.2
+1021,08/28/2025 07:55:36,IN003,Small,Olives;Mushroom;Green Peppers,14.72
+1022,08/29/2025 01:32:36,TN002,Small,Cheese,16.44
+1023,08/29/2025 17:12:36,TN004,Small,Olives,19.82
+1024,08/28/2025 22:56:36,,Large,Green Peppers;Bacon;Pineapple,13.68
+1025,,TN002,Medium,,20.82
+1026,08/29/2025 00:40:36,TN004,Medium,Mushroom;Cheese,19.57
+1027,,TN004,Small,Cheese;Sausage,16.35
+1028,08/29/2025 11:31:36,TN001,Small,Pineapple,19.34
+1029,09/01/2025 04:29:36,TN001,Small,Sausage;Olives,18.56
+1030,08/30/2025 13:55:36,TN001,Medium,Cheese,16.3
+1031,09/01/2025 03:37:36,TN002,Medium,,14.44
+1032,08/29/2025 12:13:36,KY001,Small,,16.47
+1033,08/28/2025 05:09:36,TN003,Medium,Onion;Olives;Sausage,16.64
+1034,08/29/2025 17:50:36,TN004,Small,Olives;Pepperoni,12.66
+1035,09/01/2025 02:07:36,IN003,Large,Mushroom;Olives;Onion,11.66
+1036,08/30/2025 12:46:36,TN001,Large,Cheese,18.34
+1037,,TN002,Large,Sausage;Cheese,10.78
+1038,08/28/2025 17:16:36,TN002,Small,Olives;Bacon;Cheese,18.49
+1039,09/02/2025 01:32:36,IN003,Small,Cheese;Mushroom,19.72
+1040,,TN002,Large,Pineapple;Cheese;Onion,18.99
+1041,08/29/2025 13:16:36,IN003,Small,Bacon;Pineapple,12.65
+1042,08/28/2025 04:46:36,TN001,Large,Sausage;Pepperoni,18.97
+1043,08/31/2025 00:39:36,TN004,Small,Bacon;Mushroom,14.86
+1044,08/30/2025 11:33:36,TN004,Small,Onion;Bacon,20.18
+1045,08/31/2025 08:44:36,IN003,Small,Olives;Pepperoni,13.62
+1046,08/27/2025 12:44:36,IN003,Medium,Pineapple,21.14
+1047,08/29/2025 04:46:36,TN005,Large,Green Peppers,19.13
+1048,08/28/2025 20:28:36,TN005,Large,Olives,10.7
+1049,08/26/2025 23:47:36,TN002,Large,Green Peppers,17.04
+1050,09/01/2025 12:14:36,TN001,Medium,Mushroom;Cheese,12.32
+1051,09/01/2025 21:07:36,TN001,Small,Pepperoni;Green Peppers;Mushroom,20.2
+1052,09/01/2025 02:56:36,TN005,Medium,Mushroom,20.35
+1053,09/02/2025 03:13:36,TN002,Small,Cheese;Pineapple;Pepperoni,16.77
+1054,08/30/2025 04:09:36,TN002,Medium,Olives;Cheese,13.77
+1055,09/02/2025 04:02:36,TN002,Large,Mushroom,14.17
+1056,08/31/2025 23:47:36,TN001,Small,Onion,13.45
+1057,08/30/2025 15:08:36,KY001,Medium,Olives;Green Peppers,20.29
+1058,08/29/2025 05:36:36,TN001,Small,Pepperoni;Olives;Pineapple,14.21
+1059,09/01/2025 14:32:36,IN003,Small,Pepperoni,16.68
+1060,09/01/2025 12:06:36,TN001,Large,Pepperoni;Olives;Green Peppers,20.41
+1061,08/28/2025 23:24:36,IN003,Medium,Pepperoni;Sausage;Cheese,21.62
+1062,09/01/2025 03:50:36,TN005,Large,Onion;Mushroom,15.96
+1063,08/27/2025 15:31:36,TN004,Medium,Olives;Green Peppers,11.32
+1064,08/28/2025 04:38:36,KY001,Small,Pineapple;Bacon;Mushroom,21.95
+1065,08/26/2025 12:17:36,TN002,Large,Olives;Bacon;Onion,18.19
+1066,08/28/2025 12:05:36,KY001,Small,Bacon,12.32
+1067,09/01/2025 17:02:36,TN005,Small,,12.68
+1068,09/01/2025 10:07:36,TN003,Small,Cheese;Olives,21.67
+1069,08/31/2025 01:38:36,,Large,Sausage,10.84
+1070,09/01/2025 03:43:36,TN001,Medium,Olives;Onion,15.84
+1071,08/30/2025 10:22:36,TN001,Large,,14.54
+1072,,KY001,Large,Bacon;Onion;Sausage,10.14
+1073,09/01/2025 20:11:36,IN003,Large,Sausage;Mushroom,17.48
+1074,08/28/2025 13:46:36,TN004,Large,Pineapple,14.56
+1075,08/29/2025 23:03:36,TN003,Medium,Onion;Mushroom;Sausage,13.64
+1076,08/27/2025 01:06:36,TN002,Small,,12.05
+1077,08/27/2025 11:20:36,TN003,Small,Cheese;Mushroom,13.82
+1078,08/30/2025 12:58:36,TN002,Large,,21.68
+1079,08/29/2025 00:44:36,TN005,Large,Pineapple;Olives;Mushroom,12.16
+1080,09/01/2025 23:11:36,TN002,Small,Sausage;Bacon;Onion,20.09
+1081,08/28/2025 16:31:36,IN003,Medium,Green Peppers,13.38
+1082,08/27/2025 16:58:36,TN003,Small,Green Peppers;Olives;Pineapple,14.6
+1083,08/29/2025 05:00:36,TN001,Medium,,15.89
+1084,08/29/2025 15:41:36,TN002,Large,Mushroom;Bacon,15.29
+1085,08/29/2025 01:05:36,IN003,Small,Bacon;Cheese,21.47
+1086,09/01/2025 17:56:36,IN003,Small,Mushroom;Cheese;Onion,13.49
+1087,08/30/2025 20:05:36,TN003,Small,Olives;Pepperoni,12.16
+1088,08/28/2025 14:00:36,,Small,Bacon,20.31
+1089,08/30/2025 19:55:36,KY001,Medium,Cheese;Bacon,12.0
+1090,08/28/2025 15:37:36,TN004,Medium,Pepperoni;Green Peppers,17.68
+1091,08/30/2025 11:32:36,TN004,Medium,Green Peppers;Olives,20.7
+1092,08/27/2025 21:29:36,,Small,Pineapple,15.32
+1093,08/31/2025 09:27:36,TN002,Medium,Olives,18.24
+1094,08/28/2025 17:39:36,TN005,Medium,Pepperoni;Mushroom;Pineapple,11.01
+1095,08/29/2025 09:14:36,KY001,Large,Pineapple;Green Peppers,11.15
+1096,08/27/2025 22:47:36,TN003,Small,Pineapple,15.2
+1097,08/28/2025 10:48:36,TN005,Medium,Cheese,15.8
+1098,09/02/2025 07:55:36,IN003,Medium,Mushroom;Onion;Green Peppers,10.08
+1099,08/28/2025 19:17:36,IN003,Medium,Cheese,20.51
+1100,09/02/2025 08:16:36,TN005,Large,Olives,19.65
+1101,08/31/2025 11:53:36,TN001,Small,Pineapple,20.99
+1102,08/28/2025 11:17:36,TN004,Medium,Bacon,15.83
+1103,08/27/2025 01:20:36,TN003,Medium,Pepperoni;Bacon;Onion,13.62
+1104,08/29/2025 18:20:36,TN005,Large,Onion,11.88

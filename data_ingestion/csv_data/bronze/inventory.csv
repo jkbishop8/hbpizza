@@ -1,0 +1,105 @@
+ingredient,supplier,cost_per_unit,stock_level,last_updated
+Mozzarella,CheeseCo,0.75,120,2025-08-30
+Tomato Sauce,SauceWorks,0.5,200,2025-08-30
+Pepperoni,MeatMakers,0.9,150,2025-08-30
+Mushroom,FungiFresh,0.6,80,2025-08-30
+Pineapple,FlavorFlow,0.42,174,2025-08-31
+Bacon,ToppingTown,1.1,190,2025-08-27
+Pineapple,ToppingTown,0.6,141,2025-08-23
+Bacon,VeggieVault,0.82,106,2025-08-23
+Pineapple,FlavorFlow,0.58,136,2025-08-30
+Bacon,ToppingTown,0.99,144,2025-08-25
+Onions,FreshFarm,0.7,197,2025-08-25
+Green Peppers,FreshFarm,0.8,133,2025-08-24
+Green Peppers,ToppingTown,1.16,200,2025-08-28
+Green Peppers,FreshFarm,0.96,155,2025-08-25
+Pineapple,VeggieVault,0.9,133,2025-08-30
+Chicken,VeggieVault,1.17,171,2025-08-29
+Olives,FlavorFlow,0.46,167,2025-09-01
+Green Peppers,FreshFarm,0.81,152,2025-08-31
+Onions,VeggieVault,0.66,140,2025-08-26
+Onions,FreshFarm,1.0,117,2025-09-01
+Onions,FlavorFlow,1.18,164,2025-09-01
+Chicken,ToppingTown,0.46,200,2025-08-30
+Olives,ToppingTown,0.65,104,2025-08-27
+Bacon,VeggieVault,0.63,196,2025-08-31
+Pineapple,ToppingTown,0.55,129,2025-08-29
+Sausage,VeggieVault,0.51,188,2025-08-25
+Onions,MeatMakers,0.66,123,2025-09-01
+Green Peppers,ToppingTown,0.53,134,2025-08-28
+Pineapple,FlavorFlow,1.14,198,2025-09-01
+Chicken,MeatMakers,1.19,165,2025-08-22
+Onions,ToppingTown,0.67,150,2025-08-23
+Chicken,FreshFarm,0.88,113,2025-08-25
+Green Peppers,FreshFarm,0.79,190,2025-08-24
+Chicken,MeatMakers,1.04,200,2025-08-23
+Olives,MeatMakers,0.94,150,2025-08-29
+Pineapple,MeatMakers,0.4,113,2025-08-22
+Green Peppers,FlavorFlow,0.81,140,2025-08-26
+Sausage,ToppingTown,0.82,165,2025-09-01
+Pineapple,FreshFarm,0.41,179,2025-08-23
+Pineapple,FlavorFlow,0.99,184,2025-08-24
+Olives,MeatMakers,1.05,127,2025-08-28
+Onions,FreshFarm,1.0,100,2025-08-27
+Pineapple,ToppingTown,0.71,150,2025-08-31
+Onions,VeggieVault,0.79,135,2025-08-26
+Bacon,ToppingTown,0.71,185,2025-08-22
+Green Peppers,FlavorFlow,0.53,137,2025-08-23
+Chicken,VeggieVault,0.73,101,2025-08-31
+Green Peppers,FlavorFlow,0.44,143,2025-09-01
+Olives,MeatMakers,1.0,106,2025-08-28
+Bacon,ToppingTown,0.51,154,2025-08-31
+Pineapple,FlavorFlow,0.6,196,2025-08-24
+Onions,MeatMakers,0.44,173,2025-08-30
+Onions,FreshFarm,1.06,195,2025-09-01
+Olives,MeatMakers,1.12,117,2025-08-30
+Bacon,FlavorFlow,0.67,161,2025-08-24
+Bacon,ToppingTown,0.9,186,2025-08-31
+Pineapple,FlavorFlow,1.14,108,2025-08-31
+Pineapple,MeatMakers,1.18,122,2025-08-28
+Bacon,ToppingTown,0.81,197,2025-08-29
+Sausage,ToppingTown,0.93,102,2025-08-27
+Bacon,FreshFarm,0.72,186,2025-08-26
+Chicken,ToppingTown,0.4,162,2025-08-22
+Sausage,FlavorFlow,1.14,169,2025-08-27
+Chicken,VeggieVault,0.49,100,2025-08-30
+Sausage,MeatMakers,0.53,183,2025-09-01
+Olives,ToppingTown,0.85,112,2025-08-31
+Chicken,VeggieVault,0.73,180,2025-08-29
+Chicken,ToppingTown,0.74,120,2025-08-28
+Pineapple,ToppingTown,1.13,154,2025-08-24
+Pineapple,FreshFarm,0.97,196,2025-08-31
+Olives,VeggieVault,1.2,100,2025-08-29
+Pineapple,FlavorFlow,0.7,159,2025-08-26
+Bacon,ToppingTown,0.93,150,2025-09-01
+Bacon,FlavorFlow,0.61,101,2025-08-23
+Green Peppers,FlavorFlow,1.17,163,2025-08-30
+Pineapple,VeggieVault,1.03,132,2025-08-31
+Chicken,ToppingTown,0.44,145,2025-08-27
+Bacon,VeggieVault,1.04,194,2025-08-31
+Olives,ToppingTown,1.06,186,2025-08-29
+Green Peppers,MeatMakers,0.5,124,2025-08-28
+Sausage,VeggieVault,0.9,100,2025-08-31
+Pineapple,FreshFarm,0.95,194,2025-08-22
+Olives,ToppingTown,0.9,171,2025-08-24
+Bacon,FreshFarm,0.41,190,2025-08-28
+Green Peppers,VeggieVault,0.64,143,2025-08-31
+Bacon,MeatMakers,0.72,164,2025-08-22
+Chicken,FlavorFlow,0.53,114,2025-08-30
+Onions,VeggieVault,0.96,119,2025-08-27
+Sausage,FlavorFlow,0.97,193,2025-08-22
+Chicken,FlavorFlow,1.01,199,2025-08-25
+Green Peppers,FreshFarm,0.68,170,2025-08-28
+Green Peppers,FlavorFlow,0.78,100,2025-08-22
+Chicken,VeggieVault,0.93,134,2025-08-31
+Sausage,MeatMakers,0.9,118,2025-08-23
+Sausage,FlavorFlow,0.94,173,2025-08-22
+Chicken,VeggieVault,0.61,167,2025-08-22
+Sausage,MeatMakers,0.45,173,2025-08-26
+Sausage,ToppingTown,1.18,166,2025-09-01
+Olives,FlavorFlow,1.04,182,2025-08-27
+Sausage,ToppingTown,0.42,188,2025-08-26
+Green Peppers,ToppingTown,0.77,185,2025-08-24
+Olives,FreshFarm,0.77,117,2025-08-31
+Bacon,FreshFarm,1.18,180,2025-08-22
+Chicken,MeatMakers,0.74,113,2025-08-30

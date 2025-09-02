@@ -1,0 +1,105 @@
+feedback_id,order_id,comment,rating,category,sentiment
+F001,1001,Loved the crust and toppings!,5,,
+F002,1002,Too salty and slow delivery,2,,
+F003,1003,Perfect size and flavor,4,,
+F004,1004,Crust was undercooked,3,,
+F005,1005,"Pizza was okay, nothing special.",3,Taste,Neutral
+F006,1006,Plenty of wings for the price.,5,Portion,Positive
+F007,1007,Long wait time.,2,Service,Negative
+F008,1008,Delivery was fine.,3,Delivery,Neutral
+F009,1009,Rude staff.,1,Service,Negative
+F010,1010,Delivery was fine.,3,Delivery,Neutral
+F011,1011,Ordering was fine.,3,Service,Neutral
+F012,1012,Loved the spicy wings!,4,Taste,Positive
+F013,1013,Enough for one person.,3,Portion,Neutral
+F014,1014,"Arrived on time, no issues.",3,Delivery,Neutral
+F015,1015,Crust tasted undercooked.,2,Taste,Negative
+F016,1016,Not enough food.,2,Portion,Negative
+F017,1017,Easy ordering process.,4,Service,Positive
+F018,1018,Enough for one person.,3,Portion,Neutral
+F019,1019,Rude staff.,1,Service,Negative
+F020,1020,Wings were average.,3,Taste,Neutral
+F021,1021,Enough for one person.,3,Portion,Neutral
+F022,1022,Very responsive team.,4,Service,Positive
+F023,1023,Skimpy toppings.,1,Portion,Negative
+F024,1024,Standard delivery experience.,3,Delivery,Neutral
+F025,1025,Wings were burnt.,1,Taste,Negative
+F026,1026,Tiny wings.,2,Portion,Negative
+F027,1027,Wings were average.,3,Taste,Neutral
+F028,1028,Crust was crispy and delicious.,5,Taste,Positive
+F029,1029,"Not too much, not too little.",3,Portion,Neutral
+F030,1030,Fast and friendly delivery!,4,Delivery,Positive
+F031,1031,Crust tasted undercooked.,2,Taste,Negative
+F032,1032,"Not too much, not too little.",3,Portion,Neutral
+F033,1033,Loved the spicy wings!,4,Taste,Positive
+F034,1034,"Arrived on time, no issues.",3,Delivery,Neutral
+F035,1035,"Arrived on time, no issues.",3,Delivery,Neutral
+F036,1036,"Pizza was okay, nothing special.",3,Taste,Neutral
+F037,1037,Wings were burnt.,2,Taste,Negative
+F038,1038,Order was incorrect.,2,Service,Negative
+F039,1039,Tiny wings.,2,Portion,Negative
+F040,1040,Very responsive team.,4,Service,Positive
+F041,1041,Staff was helpful and courteous.,4,Service,Positive
+F042,1042,Plenty of wings for the price.,4,Portion,Positive
+F043,1043,Wings were average.,3,Taste,Neutral
+F044,1044,"Pizza was okay, nothing special.",3,Taste,Neutral
+F045,1045,Tiny wings.,2,Portion,Negative
+F046,1046,Skimpy toppings.,2,Portion,Negative
+F047,1047,Tiny wings.,2,Portion,Negative
+F048,1048,Service was acceptable.,3,Service,Neutral
+F049,1049,Staff was helpful and courteous.,5,Service,Positive
+F050,1050,Pizza was big and filling.,4,Portion,Positive
+F051,1051,Crust tasted undercooked.,1,Taste,Negative
+F052,1052,Rude staff.,2,Service,Negative
+F053,1053,Pizza was perfectly seasoned!,4,Taste,Positive
+F054,1054,Rude staff.,2,Service,Negative
+F055,1055,Not enough food.,2,Portion,Negative
+F056,1056,Service was acceptable.,3,Service,Neutral
+F057,1057,"Not too much, not too little.",3,Portion,Neutral
+F058,1058,Delivery was fine.,3,Delivery,Neutral
+F059,1059,"Arrived on time, no issues.",3,Delivery,Neutral
+F060,1060,Great customer service!,5,Service,Positive
+F061,1061,Fast and friendly delivery!,5,Delivery,Positive
+F062,1062,No issues with staff.,3,Service,Neutral
+F063,1063,Fast and friendly delivery!,5,Delivery,Positive
+F064,1064,Order arrived hot and fresh.,4,Delivery,Positive
+F065,1065,Plenty of wings for the price.,5,Portion,Positive
+F066,1066,Skimpy toppings.,1,Portion,Negative
+F067,1067,Delivery was fine.,3,Delivery,Neutral
+F068,1068,Not enough food.,1,Portion,Negative
+F069,1069,Flavor was mild.,3,Taste,Neutral
+F070,1070,Standard delivery experience.,3,Delivery,Neutral
+F071,1071,Crust tasted undercooked.,2,Taste,Negative
+F072,1072,Great value for money.,4,Portion,Positive
+F073,1073,Easy ordering process.,4,Service,Positive
+F074,1074,Order arrived hot and fresh.,5,Delivery,Positive
+F075,1075,Delivery was late.,1,Delivery,Negative
+F076,1076,No issues with staff.,3,Service,Neutral
+F077,1077,Nothing to complain about.,3,Delivery,Neutral
+F078,1078,Loved the spicy wings!,4,Taste,Positive
+F079,1079,Staff was helpful and courteous.,4,Service,Positive
+F080,1080,Not enough food.,1,Portion,Negative
+F081,1081,Ordering was fine.,3,Service,Neutral
+F082,1082,Standard delivery experience.,3,Delivery,Neutral
+F083,1083,Average experience.,3,Service,Neutral
+F084,1084,Average portion.,3,Portion,Neutral
+F085,1085,Enough for one person.,3,Portion,Neutral
+F086,1086,"Arrived on time, no issues.",3,Delivery,Neutral
+F087,1087,Long wait time.,1,Service,Negative
+F088,1088,Wings were average.,3,Taste,Neutral
+F089,1089,Poor customer support.,2,Service,Negative
+F090,1090,Poor delivery timing.,2,Delivery,Negative
+F091,1091,Very responsive team.,5,Service,Positive
+F092,1092,Fast and friendly delivery!,5,Delivery,Positive
+F093,1093,Toppings were fresh and generous.,5,Taste,Positive
+F094,1094,Very responsive team.,5,Service,Positive
+F095,1095,Delivery was late.,1,Delivery,Negative
+F096,1096,Pizza was too small.,2,Portion,Negative
+F097,1097,Poor customer support.,2,Service,Negative
+F098,1098,Great customer service!,4,Service,Positive
+F099,1099,"Not bad, but not memorable.",3,Taste,Neutral
+F100,1100,Enough for one person.,3,Portion,Neutral
+F101,1101,Long wait time.,1,Service,Negative
+F102,1102,Enough for one person.,3,Portion,Neutral
+F103,1103,Easy ordering process.,5,Service,Positive
+F104,1104,Very responsive team.,5,Service,Positive
