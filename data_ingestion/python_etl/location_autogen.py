@@ -1,6 +1,7 @@
 import pandas as pd
 import random
 import os
+from datetime import datetime, timedelta
 
 # Load existing data
 # Load existing inventory
@@ -25,7 +26,8 @@ for i in range(100):
     city = random.choice(cities)
     state = random.choice(states)
     zip_code = f"{random.randint(37000, 37999)}"
-    offers_wings = random.choice(wing_options)
+    offers_wings = random.choice(wing_options) 
+    ingestion_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Randomly omit some fields to simulate data collection issues
     if random.random() < 0.1: address = ""
@@ -40,7 +42,8 @@ for i in range(100):
         "city": city,
         "state": state,
         "zip": zip_code,
-        "offers_wings": offers_wings
+        "offers_wings": offers_wings,
+        "ingestion_timestamp": ingestion_timestamp
     })
 
 # Append and save

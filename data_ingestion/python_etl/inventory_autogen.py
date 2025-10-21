@@ -21,16 +21,20 @@ for i in range(100):
     cost = round(random.uniform(0.4, 1.2), 2)
     stock = random.randint(100, 200)
     last_updated = (datetime.today() - timedelta(days=random.randint(0, 10))).strftime("%Y-%m-%d")
+    ingestion_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
     new_rows.append({
         "ingredient": ingredient,
         "supplier": supplier,
         "cost_per_unit": cost,
         "stock_level": stock,
-        "last_updated": last_updated
+        "last_updated": last_updated,
+        "ingestion_timestamp": ingestion_timestamp
     })
 
 # Append and save
+
+
 new_df = pd.DataFrame(new_rows)
 expanded_df = pd.concat([df, new_df], ignore_index=True)
 # Save to new CSV

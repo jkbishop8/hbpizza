@@ -1,106 +1,306 @@
-store_id,store_name,store_type,address,city,state,zip,offers_wings
-TN001,Shell Express,Gas Station,123 Broad St,Murfreesboro,TN,37130,Yes
-TN002,QuickMart 24,Convenience Store,456 Main St,Murfreesboro,TN,37129,No
-TN003,FoodTown Market,Local Grocer,789 Maple Ave,Smyrna,TN,37167,Yes
-TN004,BP Fast Stop,Gas Station,321 Oak Dr,Lebanon,TN,37087,Yes
-TN005,Corner Market,Convenience Store,654 Vine St,La Vergne,TN,37086,No
-TN006,Store 6,Local Grocer,919 Elm St,Lebanon,TN,37647,Yes
-TN007,Store 7,Food Court,591 Elm St,Murfreesboro,TN,37448,Yes
-TN008,Store 8,Gas Station,437 Elm St,Nashville,TN,37770,Yes
-TN009,Store 9,Supermarket,614 Main St,La Vergne,TN,37372,No
-TN010,Store 10,Supermarket,,Smyrna,TN,37239,Yes
-TN011,Store 11,Food Court,886 Main St,La Vergne,TN,37147,Yes
-TN012,Store 12,Food Court,357 Main St,Smyrna,TN,37510,No
-TN013,Store 13,Local Grocer,791 Main St,La Vergne,TN,37310,Yes
-TN014,Store 14,Food Court,279 Broadway,Nashville,TN,37468,Yes
-TN015,Store 15,Gas Station,991 Broadway,Smyrna,TN,37025,No
-TN016,Store 16,Gas Station,,Murfreesboro,TN,37162,
-TN017,Store 17,Gas Station,562 Elm St,Smyrna,TN,37471,No
-TN018,Store 18,Supermarket,367 Main St,Lebanon,TN,37101,Yes
-TN019,Store 19,Convenience Store,,La Vergne,TN,,No
-TN020,Store 20,Gas Station,349 Maple Ave,Lebanon,TN,37466,Yes
-TN021,Store 21,Convenience Store,,Smyrna,TN,37910,Yes
-TN022,Store 22,Food Court,676 Elm St,Nashville,TN,37361,No
-TN023,Store 23,Gas Station,599 Main St,La Vergne,TN,37734,No
-TN024,Store 24,Local Grocer,288 Main St,Lebanon,TN,37735,Yes
-TN025,Store 25,Convenience Store,638 Main St,Smyrna,TN,37219,Yes
-TN026,Store 26,Gas Station,167 Elm St,Nashville,TN,37106,Yes
-TN027,Store 27,Food Court,299 Main St,Murfreesboro,TN,,Yes
-TN028,Store 28,Convenience Store,361 Elm St,Murfreesboro,TN,37370,
-TN029,Store 29,Gas Station,966 Maple Ave,Nashville,TN,37703,Yes
-TN030,Store 30,Convenience Store,756 Elm St,Murfreesboro,TN,37190,No
-TN031,Store 31,Gas Station,426 Broadway,Lebanon,TN,,Yes
-TN032,Store 32,Food Court,461 Main St,Smyrna,TN,37619,Yes
-TN033,Store 33,Supermarket,202 Broadway,La Vergne,TN,,No
-TN034,Store 34,Local Grocer,735 Broadway,Smyrna,TN,37938,No
-TN035,Store 35,Food Court,242 Main St,Nashville,TN,37127,Yes
-TN036,Store 36,Local Grocer,143 Broadway,La Vergne,TN,37389,No
-TN037,Store 37,Local Grocer,977 Maple Ave,Murfreesboro,TN,,
-TN038,Store 38,Supermarket,152 Maple Ave,La Vergne,TN,37764,No
-TN039,Store 39,Convenience Store,730 Broadway,Smyrna,TN,37461,Yes
-TN040,Store 40,Gas Station,296 Maple Ave,La Vergne,TN,37959,No
-TN041,Store 41,Food Court,,La Vergne,TN,,No
-TN042,Store 42,Local Grocer,179 Maple Ave,Lebanon,TN,,No
-TN043,Store 43,Food Court,593 Main St,Smyrna,TN,37588,Yes
-TN044,Store 44,Convenience Store,483 Broadway,Smyrna,TN,37170,
-TN045,Store 45,Supermarket,419 Main St,La Vergne,TN,,Yes
-TN046,Store 46,Local Grocer,,Lebanon,TN,37535,Yes
-TN047,Store 47,Supermarket,733 Elm St,Murfreesboro,TN,37459,Yes
-TN048,Store 48,Local Grocer,188 Maple Ave,Murfreesboro,TN,37598,Yes
-TN049,Store 49,Gas Station,,Smyrna,TN,37990,No
-TN050,Store 50,Convenience Store,185 Main St,Murfreesboro,TN,37461,Yes
-TN051,Store 51,Gas Station,572 Main St,Smyrna,TN,37527,No
-TN052,Store 52,Gas Station,,Murfreesboro,TN,37604,No
-TN053,Store 53,Convenience Store,603 Elm St,Lebanon,TN,37460,Yes
-TN054,Store 54,Food Court,271 Maple Ave,Murfreesboro,TN,37107,Yes
-TN055,Store 55,Gas Station,708 Maple Ave,Lebanon,TN,37360,No
-TN056,Store 56,Food Court,715 Elm St,Murfreesboro,TN,37884,
-TN057,Store 57,Convenience Store,,Murfreesboro,TN,37409,No
-TN058,Store 58,Gas Station,435 Broadway,Murfreesboro,TN,37735,No
-TN059,Store 59,Local Grocer,683 Broadway,Smyrna,TN,37849,No
-TN060,Store 60,Supermarket,216 Elm St,Murfreesboro,TN,37238,No
-TN061,Store 61,Convenience Store,717 Maple Ave,Murfreesboro,TN,37236,No
-TN062,Store 62,Supermarket,196 Main St,Smyrna,TN,37611,Yes
-TN063,Store 63,Supermarket,441 Elm St,Nashville,TN,37091,
-TN064,Store 64,Local Grocer,704 Broadway,Lebanon,TN,37512,Yes
-TN065,Store 65,Local Grocer,545 Main St,La Vergne,TN,37974,Yes
-TN066,Store 66,Gas Station,794 Maple Ave,Murfreesboro,TN,37896,No
-TN067,Store 67,Supermarket,535 Main St,Murfreesboro,TN,37481,Yes
-TN068,Store 68,Convenience Store,697 Elm St,La Vergne,TN,37979,No
-TN069,Store 69,Gas Station,584 Main St,Smyrna,TN,37152,Yes
-TN070,Store 70,Supermarket,389 Broadway,Smyrna,TN,37204,Yes
-TN071,Store 71,Local Grocer,812 Broadway,Murfreesboro,TN,37677,Yes
-TN072,Store 72,Convenience Store,771 Maple Ave,Smyrna,TN,37846,Yes
-TN073,Store 73,Food Court,938 Main St,Murfreesboro,TN,37294,
-TN074,Store 74,Supermarket,642 Broadway,Murfreesboro,TN,37909,Yes
-TN075,Store 75,Food Court,390 Maple Ave,Nashville,TN,37627,No
-TN076,Store 76,Local Grocer,459 Elm St,Lebanon,TN,37609,Yes
-TN077,Store 77,Gas Station,118 Main St,La Vergne,TN,37665,Yes
-TN078,Store 78,Gas Station,768 Elm St,Lebanon,TN,37842,No
-TN079,Store 79,Gas Station,,Lebanon,TN,37954,Yes
-TN080,Store 80,Local Grocer,985 Main St,Murfreesboro,TN,37864,No
-TN081,Store 81,Food Court,378 Broadway,Smyrna,TN,37189,
-TN082,Store 82,Convenience Store,525 Broadway,Lebanon,TN,37806,No
-TN083,Store 83,Gas Station,754 Maple Ave,Murfreesboro,TN,37440,Yes
-TN084,Store 84,Supermarket,525 Maple Ave,Murfreesboro,TN,37582,Yes
-TN085,Store 85,Local Grocer,378 Maple Ave,Lebanon,TN,37444,Yes
-TN086,Store 86,Gas Station,157 Elm St,Lebanon,TN,37699,No
-TN087,Store 87,Local Grocer,626 Main St,Murfreesboro,TN,37770,No
-TN088,Store 88,Food Court,775 Maple Ave,Murfreesboro,TN,37711,No
-TN089,Store 89,Convenience Store,343 Broadway,Nashville,TN,37685,Yes
-TN090,Store 90,Gas Station,304 Broadway,Nashville,TN,37582,Yes
-TN091,Store 91,Local Grocer,,Lebanon,TN,37543,No
-TN092,Store 92,Supermarket,418 Main St,Lebanon,TN,37930,No
-TN093,Store 93,Gas Station,549 Maple Ave,La Vergne,TN,37710,Yes
-TN094,Store 94,Gas Station,969 Broadway,Nashville,TN,37639,Yes
-TN095,Store 95,Local Grocer,631 Elm St,Murfreesboro,TN,37140,No
-TN096,Store 96,Food Court,865 Maple Ave,Smyrna,TN,37965,No
-TN097,Store 97,Gas Station,376 Elm St,La Vergne,TN,37907,No
-TN098,Store 98,Food Court,645 Broadway,Nashville,TN,,Yes
-TN099,Store 99,Supermarket,481 Broadway,Lebanon,TN,37063,Yes
-TN100,Store 100,Local Grocer,777 Elm St,Murfreesboro,TN,37237,No
-TN101,Store 101,Convenience Store,,Lebanon,TN,37162,No
-TN102,Store 102,Local Grocer,317 Elm St,Nashville,TN,37761,No
-TN103,Store 103,Food Court,486 Elm St,Smyrna,TN,37242,No
-TN104,Store 104,Gas Station,522 Elm St,La Vergne,TN,37902,No
-TN105,Store 105,Convenience Store,107 Broadway,La Vergne,TN,37675,No
+store_id,store_name,store_type,address,city,state,zip,offers_wings,ingestion_timestamp
+TN001,Shell Express,Gas Station,123 Broad St,Murfreesboro,TN,37130.0,Yes,
+TN002,QuickMart 24,Convenience Store,456 Main St,Murfreesboro,TN,37129.0,No,
+TN003,FoodTown Market,Local Grocer,789 Maple Ave,Smyrna,TN,37167.0,Yes,
+TN004,BP Fast Stop,Gas Station,321 Oak Dr,Lebanon,TN,37087.0,Yes,
+TN005,Corner Market,Convenience Store,654 Vine St,La Vergne,TN,37086.0,No,
+TN006,Store 6,Local Grocer,919 Elm St,Lebanon,TN,37647.0,Yes,
+TN007,Store 7,Food Court,591 Elm St,Murfreesboro,TN,37448.0,Yes,
+TN008,Store 8,Gas Station,437 Elm St,Nashville,TN,37770.0,Yes,
+TN009,Store 9,Supermarket,614 Main St,La Vergne,TN,37372.0,No,
+TN010,Store 10,Supermarket,,Smyrna,TN,37239.0,Yes,
+TN011,Store 11,Food Court,886 Main St,La Vergne,TN,37147.0,Yes,
+TN012,Store 12,Food Court,357 Main St,Smyrna,TN,37510.0,No,
+TN013,Store 13,Local Grocer,791 Main St,La Vergne,TN,37310.0,Yes,
+TN014,Store 14,Food Court,279 Broadway,Nashville,TN,37468.0,Yes,
+TN015,Store 15,Gas Station,991 Broadway,Smyrna,TN,37025.0,No,
+TN016,Store 16,Gas Station,,Murfreesboro,TN,37162.0,,
+TN017,Store 17,Gas Station,562 Elm St,Smyrna,TN,37471.0,No,
+TN018,Store 18,Supermarket,367 Main St,Lebanon,TN,37101.0,Yes,
+TN019,Store 19,Convenience Store,,La Vergne,TN,,No,
+TN020,Store 20,Gas Station,349 Maple Ave,Lebanon,TN,37466.0,Yes,
+TN021,Store 21,Convenience Store,,Smyrna,TN,37910.0,Yes,
+TN022,Store 22,Food Court,676 Elm St,Nashville,TN,37361.0,No,
+TN023,Store 23,Gas Station,599 Main St,La Vergne,TN,37734.0,No,
+TN024,Store 24,Local Grocer,288 Main St,Lebanon,TN,37735.0,Yes,
+TN025,Store 25,Convenience Store,638 Main St,Smyrna,TN,37219.0,Yes,
+TN026,Store 26,Gas Station,167 Elm St,Nashville,TN,37106.0,Yes,
+TN027,Store 27,Food Court,299 Main St,Murfreesboro,TN,,Yes,
+TN028,Store 28,Convenience Store,361 Elm St,Murfreesboro,TN,37370.0,,
+TN029,Store 29,Gas Station,966 Maple Ave,Nashville,TN,37703.0,Yes,
+TN030,Store 30,Convenience Store,756 Elm St,Murfreesboro,TN,37190.0,No,
+TN031,Store 31,Gas Station,426 Broadway,Lebanon,TN,,Yes,
+TN032,Store 32,Food Court,461 Main St,Smyrna,TN,37619.0,Yes,
+TN033,Store 33,Supermarket,202 Broadway,La Vergne,TN,,No,
+TN034,Store 34,Local Grocer,735 Broadway,Smyrna,TN,37938.0,No,
+TN035,Store 35,Food Court,242 Main St,Nashville,TN,37127.0,Yes,
+TN036,Store 36,Local Grocer,143 Broadway,La Vergne,TN,37389.0,No,
+TN037,Store 37,Local Grocer,977 Maple Ave,Murfreesboro,TN,,,
+TN038,Store 38,Supermarket,152 Maple Ave,La Vergne,TN,37764.0,No,
+TN039,Store 39,Convenience Store,730 Broadway,Smyrna,TN,37461.0,Yes,
+TN040,Store 40,Gas Station,296 Maple Ave,La Vergne,TN,37959.0,No,
+TN041,Store 41,Food Court,,La Vergne,TN,,No,
+TN042,Store 42,Local Grocer,179 Maple Ave,Lebanon,TN,,No,
+TN043,Store 43,Food Court,593 Main St,Smyrna,TN,37588.0,Yes,
+TN044,Store 44,Convenience Store,483 Broadway,Smyrna,TN,37170.0,,
+TN045,Store 45,Supermarket,419 Main St,La Vergne,TN,,Yes,
+TN046,Store 46,Local Grocer,,Lebanon,TN,37535.0,Yes,
+TN047,Store 47,Supermarket,733 Elm St,Murfreesboro,TN,37459.0,Yes,
+TN048,Store 48,Local Grocer,188 Maple Ave,Murfreesboro,TN,37598.0,Yes,
+TN049,Store 49,Gas Station,,Smyrna,TN,37990.0,No,
+TN050,Store 50,Convenience Store,185 Main St,Murfreesboro,TN,37461.0,Yes,
+TN051,Store 51,Gas Station,572 Main St,Smyrna,TN,37527.0,No,
+TN052,Store 52,Gas Station,,Murfreesboro,TN,37604.0,No,
+TN053,Store 53,Convenience Store,603 Elm St,Lebanon,TN,37460.0,Yes,
+TN054,Store 54,Food Court,271 Maple Ave,Murfreesboro,TN,37107.0,Yes,
+TN055,Store 55,Gas Station,708 Maple Ave,Lebanon,TN,37360.0,No,
+TN056,Store 56,Food Court,715 Elm St,Murfreesboro,TN,37884.0,,
+TN057,Store 57,Convenience Store,,Murfreesboro,TN,37409.0,No,
+TN058,Store 58,Gas Station,435 Broadway,Murfreesboro,TN,37735.0,No,
+TN059,Store 59,Local Grocer,683 Broadway,Smyrna,TN,37849.0,No,
+TN060,Store 60,Supermarket,216 Elm St,Murfreesboro,TN,37238.0,No,
+TN061,Store 61,Convenience Store,717 Maple Ave,Murfreesboro,TN,37236.0,No,
+TN062,Store 62,Supermarket,196 Main St,Smyrna,TN,37611.0,Yes,
+TN063,Store 63,Supermarket,441 Elm St,Nashville,TN,37091.0,,
+TN064,Store 64,Local Grocer,704 Broadway,Lebanon,TN,37512.0,Yes,
+TN065,Store 65,Local Grocer,545 Main St,La Vergne,TN,37974.0,Yes,
+TN066,Store 66,Gas Station,794 Maple Ave,Murfreesboro,TN,37896.0,No,
+TN067,Store 67,Supermarket,535 Main St,Murfreesboro,TN,37481.0,Yes,
+TN068,Store 68,Convenience Store,697 Elm St,La Vergne,TN,37979.0,No,
+TN069,Store 69,Gas Station,584 Main St,Smyrna,TN,37152.0,Yes,
+TN070,Store 70,Supermarket,389 Broadway,Smyrna,TN,37204.0,Yes,
+TN071,Store 71,Local Grocer,812 Broadway,Murfreesboro,TN,37677.0,Yes,
+TN072,Store 72,Convenience Store,771 Maple Ave,Smyrna,TN,37846.0,Yes,
+TN073,Store 73,Food Court,938 Main St,Murfreesboro,TN,37294.0,,
+TN074,Store 74,Supermarket,642 Broadway,Murfreesboro,TN,37909.0,Yes,
+TN075,Store 75,Food Court,390 Maple Ave,Nashville,TN,37627.0,No,
+TN076,Store 76,Local Grocer,459 Elm St,Lebanon,TN,37609.0,Yes,
+TN077,Store 77,Gas Station,118 Main St,La Vergne,TN,37665.0,Yes,
+TN078,Store 78,Gas Station,768 Elm St,Lebanon,TN,37842.0,No,
+TN079,Store 79,Gas Station,,Lebanon,TN,37954.0,Yes,
+TN080,Store 80,Local Grocer,985 Main St,Murfreesboro,TN,37864.0,No,
+TN081,Store 81,Food Court,378 Broadway,Smyrna,TN,37189.0,,
+TN082,Store 82,Convenience Store,525 Broadway,Lebanon,TN,37806.0,No,
+TN083,Store 83,Gas Station,754 Maple Ave,Murfreesboro,TN,37440.0,Yes,
+TN084,Store 84,Supermarket,525 Maple Ave,Murfreesboro,TN,37582.0,Yes,
+TN085,Store 85,Local Grocer,378 Maple Ave,Lebanon,TN,37444.0,Yes,
+TN086,Store 86,Gas Station,157 Elm St,Lebanon,TN,37699.0,No,
+TN087,Store 87,Local Grocer,626 Main St,Murfreesboro,TN,37770.0,No,
+TN088,Store 88,Food Court,775 Maple Ave,Murfreesboro,TN,37711.0,No,
+TN089,Store 89,Convenience Store,343 Broadway,Nashville,TN,37685.0,Yes,
+TN090,Store 90,Gas Station,304 Broadway,Nashville,TN,37582.0,Yes,
+TN091,Store 91,Local Grocer,,Lebanon,TN,37543.0,No,
+TN092,Store 92,Supermarket,418 Main St,Lebanon,TN,37930.0,No,
+TN093,Store 93,Gas Station,549 Maple Ave,La Vergne,TN,37710.0,Yes,
+TN094,Store 94,Gas Station,969 Broadway,Nashville,TN,37639.0,Yes,
+TN095,Store 95,Local Grocer,631 Elm St,Murfreesboro,TN,37140.0,No,
+TN096,Store 96,Food Court,865 Maple Ave,Smyrna,TN,37965.0,No,
+TN097,Store 97,Gas Station,376 Elm St,La Vergne,TN,37907.0,No,
+TN098,Store 98,Food Court,645 Broadway,Nashville,TN,,Yes,
+TN099,Store 99,Supermarket,481 Broadway,Lebanon,TN,37063.0,Yes,
+TN100,Store 100,Local Grocer,777 Elm St,Murfreesboro,TN,37237.0,No,
+TN101,Store 101,Convenience Store,,Lebanon,TN,37162.0,No,
+TN102,Store 102,Local Grocer,317 Elm St,Nashville,TN,37761.0,No,
+TN103,Store 103,Food Court,486 Elm St,Smyrna,TN,37242.0,No,
+TN104,Store 104,Gas Station,522 Elm St,La Vergne,TN,37902.0,No,
+TN105,Store 105,Convenience Store,107 Broadway,La Vergne,TN,37675.0,No,
+TN106,Store 106,Food Court,598 Broadway,Lebanon,TN,37220.0,No,2025-10-21 08:15:25
+TN107,Store 107,Gas Station,854 Elm St,Lebanon,TN,37786.0,Yes,2025-10-21 08:15:25
+TN108,Store 108,Supermarket,799 Main St,Murfreesboro,TN,37397.0,,2025-10-21 08:15:25
+TN109,Store 109,Food Court,329 Broadway,La Vergne,TN,37253.0,Yes,2025-10-21 08:15:25
+TN110,Store 110,Food Court,995 Main St,Murfreesboro,TN,37761.0,Yes,2025-10-21 08:15:25
+TN111,Store 111,Convenience Store,919 Broadway,Smyrna,TN,37332.0,Yes,2025-10-21 08:15:25
+TN112,Store 112,Local Grocer,101 Maple Ave,Nashville,TN,37981.0,No,2025-10-21 08:15:25
+TN113,Store 113,Convenience Store,964 Broadway,Lebanon,TN,37245.0,Yes,2025-10-21 08:15:25
+TN114,Store 114,Supermarket,153 Maple Ave,Smyrna,TN,37587.0,No,2025-10-21 08:15:25
+TN115,Store 115,Convenience Store,294 Elm St,Murfreesboro,TN,,Yes,2025-10-21 08:15:25
+TN116,Store 116,Gas Station,,La Vergne,TN,37923.0,Yes,2025-10-21 08:15:25
+TN117,Store 117,Gas Station,,Murfreesboro,TN,37362.0,Yes,2025-10-21 08:15:25
+TN118,Store 118,Convenience Store,,Nashville,TN,37459.0,Yes,2025-10-21 08:15:25
+TN119,Store 119,Convenience Store,268 Broadway,Nashville,TN,37870.0,No,2025-10-21 08:15:25
+TN120,Store 120,Convenience Store,670 Elm St,Nashville,TN,37958.0,Yes,2025-10-21 08:15:25
+TN121,Store 121,Food Court,134 Elm St,Smyrna,TN,37781.0,No,2025-10-21 08:15:25
+TN122,Store 122,Local Grocer,,Nashville,TN,,No,2025-10-21 08:15:25
+TN123,Store 123,Supermarket,539 Elm St,Murfreesboro,TN,37325.0,No,2025-10-21 08:15:25
+TN124,Store 124,Food Court,830 Broadway,Murfreesboro,TN,37866.0,Yes,2025-10-21 08:15:25
+TN125,Store 125,Convenience Store,206 Broadway,Murfreesboro,TN,37823.0,No,2025-10-21 08:15:25
+TN126,Store 126,Gas Station,,Smyrna,TN,37099.0,No,2025-10-21 08:15:25
+TN127,Store 127,Food Court,634 Main St,La Vergne,TN,37105.0,Yes,2025-10-21 08:15:25
+TN128,Store 128,Convenience Store,610 Elm St,Smyrna,TN,37460.0,Yes,2025-10-21 08:15:25
+TN129,Store 129,Gas Station,167 Maple Ave,Nashville,TN,37537.0,No,2025-10-21 08:15:25
+TN130,Store 130,Supermarket,984 Elm St,Murfreesboro,TN,37966.0,Yes,2025-10-21 08:15:25
+TN131,Store 131,Gas Station,,Murfreesboro,TN,37275.0,Yes,2025-10-21 08:15:25
+TN132,Store 132,Gas Station,,Smyrna,TN,37607.0,,2025-10-21 08:15:25
+TN133,Store 133,Gas Station,399 Broadway,Murfreesboro,TN,37706.0,Yes,2025-10-21 08:15:25
+TN134,Store 134,Food Court,173 Maple Ave,Lebanon,TN,37446.0,Yes,2025-10-21 08:15:25
+TN135,Store 135,Local Grocer,394 Maple Ave,La Vergne,TN,37561.0,Yes,2025-10-21 08:15:25
+TN136,Store 136,Convenience Store,973 Maple Ave,Nashville,TN,37593.0,Yes,2025-10-21 08:15:25
+TN137,Store 137,Local Grocer,231 Main St,Lebanon,TN,,No,2025-10-21 08:15:25
+TN138,Store 138,Supermarket,707 Main St,Smyrna,TN,37873.0,No,2025-10-21 08:15:25
+TN139,Store 139,Supermarket,840 Elm St,La Vergne,TN,37766.0,No,2025-10-21 08:15:25
+TN140,Store 140,Local Grocer,,Lebanon,TN,37246.0,No,2025-10-21 08:15:25
+TN141,Store 141,Convenience Store,867 Elm St,Nashville,TN,37516.0,No,2025-10-21 08:15:25
+TN142,Store 142,Gas Station,811 Broadway,Lebanon,TN,37291.0,No,2025-10-21 08:15:25
+TN143,Store 143,Food Court,985 Broadway,Smyrna,TN,37854.0,Yes,2025-10-21 08:15:25
+TN144,Store 144,Supermarket,707 Main St,Smyrna,TN,37779.0,,2025-10-21 08:15:25
+TN145,Store 145,Gas Station,567 Elm St,Murfreesboro,TN,37158.0,No,2025-10-21 08:15:25
+TN146,Store 146,Convenience Store,222 Broadway,Lebanon,TN,37202.0,No,2025-10-21 08:15:25
+TN147,Store 147,Local Grocer,,La Vergne,TN,37843.0,Yes,2025-10-21 08:15:25
+TN148,Store 148,Food Court,515 Maple Ave,Smyrna,TN,37312.0,Yes,2025-10-21 08:15:25
+TN149,Store 149,Local Grocer,102 Elm St,Nashville,TN,37277.0,Yes,2025-10-21 08:15:25
+TN150,Store 150,Food Court,145 Main St,Lebanon,TN,37430.0,Yes,2025-10-21 08:15:25
+TN151,Store 151,Food Court,756 Elm St,Lebanon,TN,37007.0,No,2025-10-21 08:15:25
+TN152,Store 152,Gas Station,371 Maple Ave,Lebanon,TN,37542.0,No,2025-10-21 08:15:25
+TN153,Store 153,Food Court,,Smyrna,TN,37826.0,Yes,2025-10-21 08:15:25
+TN154,Store 154,Local Grocer,174 Maple Ave,La Vergne,TN,37089.0,Yes,2025-10-21 08:15:25
+TN155,Store 155,Local Grocer,116 Maple Ave,La Vergne,TN,,Yes,2025-10-21 08:15:25
+TN156,Store 156,Convenience Store,273 Elm St,Murfreesboro,TN,37239.0,Yes,2025-10-21 08:15:25
+TN157,Store 157,Gas Station,867 Broadway,La Vergne,TN,37919.0,Yes,2025-10-21 08:15:25
+TN158,Store 158,Local Grocer,906 Maple Ave,Nashville,TN,37929.0,No,2025-10-21 08:15:25
+TN159,Store 159,Convenience Store,437 Elm St,La Vergne,TN,37106.0,No,2025-10-21 08:15:25
+TN160,Store 160,Gas Station,211 Broadway,Lebanon,TN,37285.0,No,2025-10-21 08:15:25
+TN161,Store 161,Supermarket,540 Elm St,Lebanon,TN,37553.0,Yes,2025-10-21 08:15:25
+TN162,Store 162,Food Court,,Nashville,TN,37869.0,No,2025-10-21 08:15:25
+TN163,Store 163,Supermarket,,Smyrna,TN,37000.0,,2025-10-21 08:15:25
+TN164,Store 164,Food Court,339 Maple Ave,Murfreesboro,TN,37625.0,Yes,2025-10-21 08:15:25
+TN165,Store 165,Supermarket,297 Main St,Nashville,TN,37319.0,No,2025-10-21 08:15:25
+TN166,Store 166,Convenience Store,416 Elm St,Nashville,TN,,Yes,2025-10-21 08:15:25
+TN167,Store 167,Food Court,407 Broadway,Murfreesboro,TN,37348.0,No,2025-10-21 08:15:25
+TN168,Store 168,Local Grocer,131 Maple Ave,Murfreesboro,TN,37838.0,No,2025-10-21 08:15:25
+TN169,Store 169,Supermarket,770 Broadway,Lebanon,TN,37306.0,Yes,2025-10-21 08:15:25
+TN170,Store 170,Convenience Store,180 Elm St,Nashville,TN,37097.0,No,2025-10-21 08:15:25
+TN171,Store 171,Gas Station,685 Broadway,La Vergne,TN,37677.0,No,2025-10-21 08:15:25
+TN172,Store 172,Gas Station,376 Broadway,Murfreesboro,TN,37501.0,No,2025-10-21 08:15:25
+TN173,Store 173,Supermarket,102 Maple Ave,Murfreesboro,TN,37691.0,No,2025-10-21 08:15:25
+TN174,Store 174,Gas Station,539 Elm St,Nashville,TN,37763.0,No,2025-10-21 08:15:25
+TN175,Store 175,Food Court,539 Broadway,Nashville,TN,37962.0,Yes,2025-10-21 08:15:25
+TN176,Store 176,Convenience Store,747 Broadway,Nashville,TN,,Yes,2025-10-21 08:15:25
+TN177,Store 177,Food Court,289 Elm St,La Vergne,TN,37374.0,No,2025-10-21 08:15:25
+TN178,Store 178,Food Court,165 Broadway,Murfreesboro,TN,37373.0,Yes,2025-10-21 08:15:25
+TN179,Store 179,Food Court,715 Maple Ave,Murfreesboro,TN,,No,2025-10-21 08:15:25
+TN180,Store 180,Gas Station,339 Broadway,Lebanon,TN,,No,2025-10-21 08:15:25
+TN181,Store 181,Convenience Store,,Smyrna,TN,,Yes,2025-10-21 08:15:25
+TN182,Store 182,Convenience Store,618 Elm St,Lebanon,TN,37142.0,Yes,2025-10-21 08:15:25
+TN183,Store 183,Local Grocer,609 Main St,Nashville,TN,37021.0,No,2025-10-21 08:15:25
+TN184,Store 184,Convenience Store,339 Main St,Nashville,TN,37925.0,No,2025-10-21 08:15:25
+TN185,Store 185,Local Grocer,,Smyrna,TN,37948.0,No,2025-10-21 08:15:25
+TN186,Store 186,Convenience Store,974 Broadway,La Vergne,TN,37203.0,No,2025-10-21 08:15:25
+TN187,Store 187,Food Court,336 Main St,Nashville,TN,37321.0,No,2025-10-21 08:15:25
+TN188,Store 188,Convenience Store,193 Broadway,Nashville,TN,37545.0,,2025-10-21 08:15:25
+TN189,Store 189,Food Court,947 Broadway,Lebanon,TN,37813.0,Yes,2025-10-21 08:15:25
+TN190,Store 190,Convenience Store,123 Maple Ave,Smyrna,TN,37863.0,,2025-10-21 08:15:25
+TN191,Store 191,Local Grocer,,Lebanon,TN,37215.0,No,2025-10-21 08:15:25
+TN192,Store 192,Supermarket,310 Elm St,Nashville,TN,37430.0,Yes,2025-10-21 08:15:25
+TN193,Store 193,Supermarket,300 Elm St,La Vergne,TN,37545.0,No,2025-10-21 08:15:25
+TN194,Store 194,Convenience Store,281 Elm St,La Vergne,TN,37270.0,Yes,2025-10-21 08:15:25
+TN195,Store 195,Food Court,345 Broadway,Murfreesboro,TN,37089.0,No,2025-10-21 08:15:25
+TN196,Store 196,Food Court,134 Elm St,La Vergne,TN,37429.0,Yes,2025-10-21 08:15:25
+TN197,Store 197,Supermarket,721 Main St,Nashville,TN,37779.0,No,2025-10-21 08:15:25
+TN198,Store 198,Convenience Store,718 Elm St,La Vergne,TN,37991.0,Yes,2025-10-21 08:15:25
+TN199,Store 199,Supermarket,658 Main St,Nashville,TN,37259.0,Yes,2025-10-21 08:15:25
+TN200,Store 200,Supermarket,193 Maple Ave,Lebanon,TN,37155.0,No,2025-10-21 08:15:25
+TN201,Store 201,Gas Station,264 Main St,La Vergne,TN,37848.0,Yes,2025-10-21 08:15:25
+TN202,Store 202,Gas Station,338 Broadway,Smyrna,TN,37326.0,Yes,2025-10-21 08:15:25
+TN203,Store 203,Supermarket,449 Broadway,Nashville,TN,37723.0,,2025-10-21 08:15:25
+TN204,Store 204,Gas Station,993 Main St,La Vergne,TN,37854.0,Yes,2025-10-21 08:15:25
+TN205,Store 205,Food Court,796 Main St,Murfreesboro,TN,37498.0,No,2025-10-21 08:15:25
+TN206,Store 206,Gas Station,521 Elm St,Murfreesboro,TN,37083,No,2025-10-21 08:15:53
+TN207,Store 207,Supermarket,460 Elm St,Lebanon,TN,37771,No,2025-10-21 08:15:53
+TN208,Store 208,Local Grocer,366 Broadway,Lebanon,TN,37727,No,2025-10-21 08:15:53
+TN209,Store 209,Convenience Store,115 Main St,Lebanon,TN,37698,No,2025-10-21 08:15:53
+TN210,Store 210,Gas Station,440 Broadway,La Vergne,TN,37249,Yes,2025-10-21 08:15:53
+TN211,Store 211,Local Grocer,623 Elm St,Lebanon,TN,37970,Yes,2025-10-21 08:15:53
+TN212,Store 212,Food Court,825 Elm St,Smyrna,TN,37194,No,2025-10-21 08:15:53
+TN213,Store 213,Food Court,256 Broadway,Nashville,TN,37366,No,2025-10-21 08:15:53
+TN214,Store 214,Convenience Store,108 Maple Ave,Nashville,TN,37997,No,2025-10-21 08:15:53
+TN215,Store 215,Food Court,986 Maple Ave,Nashville,TN,37677,No,2025-10-21 08:15:53
+TN216,Store 216,Supermarket,795 Elm St,Lebanon,TN,37555,Yes,2025-10-21 08:15:53
+TN217,Store 217,Convenience Store,570 Elm St,Murfreesboro,TN,37666,Yes,2025-10-21 08:15:53
+TN218,Store 218,Local Grocer,375 Maple Ave,Nashville,TN,37108,No,2025-10-21 08:15:53
+TN219,Store 219,Convenience Store,927 Maple Ave,Smyrna,TN,37067,Yes,2025-10-21 08:15:53
+TN220,Store 220,Supermarket,460 Main St,Nashville,TN,37825,,2025-10-21 08:15:53
+TN221,Store 221,Convenience Store,600 Elm St,Murfreesboro,TN,37897,No,2025-10-21 08:15:53
+TN222,Store 222,Convenience Store,443 Broadway,La Vergne,TN,37088,Yes,2025-10-21 08:15:53
+TN223,Store 223,Gas Station,961 Elm St,Lebanon,TN,37377,No,2025-10-21 08:15:53
+TN224,Store 224,Supermarket,864 Main St,Smyrna,TN,37627,Yes,2025-10-21 08:15:53
+TN225,Store 225,Local Grocer,281 Maple Ave,Smyrna,TN,37692,No,2025-10-21 08:15:53
+TN226,Store 226,Local Grocer,345 Elm St,La Vergne,TN,37431,Yes,2025-10-21 08:15:53
+TN227,Store 227,Local Grocer,615 Maple Ave,Lebanon,TN,37039,No,2025-10-21 08:15:53
+TN228,Store 228,Local Grocer,215 Main St,Smyrna,TN,37447,Yes,2025-10-21 08:15:53
+TN229,Store 229,Food Court,902 Main St,Murfreesboro,TN,37163,Yes,2025-10-21 08:15:53
+TN230,Store 230,Supermarket,665 Elm St,La Vergne,TN,37795,No,2025-10-21 08:15:53
+TN231,Store 231,Supermarket,396 Maple Ave,Nashville,TN,37075,No,2025-10-21 08:15:53
+TN232,Store 232,Food Court,998 Elm St,Nashville,TN,37579,Yes,2025-10-21 08:15:53
+TN233,Store 233,Gas Station,,La Vergne,TN,37223,Yes,2025-10-21 08:15:53
+TN234,Store 234,Supermarket,500 Main St,Nashville,TN,37706,Yes,2025-10-21 08:15:53
+TN235,Store 235,Supermarket,756 Main St,Smyrna,TN,37028,No,2025-10-21 08:15:53
+TN236,Store 236,Convenience Store,446 Maple Ave,La Vergne,TN,37279,Yes,2025-10-21 08:15:53
+TN237,Store 237,Food Court,787 Elm St,Lebanon,TN,,No,2025-10-21 08:15:53
+TN238,Store 238,Gas Station,350 Main St,La Vergne,TN,37799,Yes,2025-10-21 08:15:53
+TN239,Store 239,Food Court,929 Main St,Nashville,TN,37082,No,2025-10-21 08:15:53
+TN240,Store 240,Food Court,,Lebanon,TN,37824,Yes,2025-10-21 08:15:53
+TN241,Store 241,Food Court,336 Elm St,Nashville,TN,37104,Yes,2025-10-21 08:15:53
+TN242,Store 242,Convenience Store,936 Elm St,Lebanon,TN,37263,No,2025-10-21 08:15:53
+TN243,Store 243,Local Grocer,650 Main St,Smyrna,TN,37900,,2025-10-21 08:15:53
+TN244,Store 244,Gas Station,313 Broadway,Lebanon,TN,37249,No,2025-10-21 08:15:53
+TN245,Store 245,Food Court,550 Broadway,Smyrna,TN,37033,No,2025-10-21 08:15:53
+TN246,Store 246,Local Grocer,171 Main St,Smyrna,TN,37434,Yes,2025-10-21 08:15:53
+TN247,Store 247,Local Grocer,276 Broadway,Lebanon,TN,37211,No,2025-10-21 08:15:53
+TN248,Store 248,Gas Station,360 Main St,La Vergne,TN,37672,No,2025-10-21 08:15:53
+TN249,Store 249,Convenience Store,660 Maple Ave,Murfreesboro,TN,37127,No,2025-10-21 08:15:53
+TN250,Store 250,Supermarket,479 Main St,Lebanon,TN,,No,2025-10-21 08:15:53
+TN251,Store 251,Food Court,816 Elm St,Murfreesboro,TN,37289,Yes,2025-10-21 08:15:53
+TN252,Store 252,Local Grocer,500 Broadway,Lebanon,TN,37185,No,2025-10-21 08:15:53
+TN253,Store 253,Supermarket,403 Maple Ave,Smyrna,TN,37330,No,2025-10-21 08:15:53
+TN254,Store 254,Gas Station,266 Elm St,Nashville,TN,37612,Yes,2025-10-21 08:15:53
+TN255,Store 255,Local Grocer,746 Maple Ave,Smyrna,TN,37439,Yes,2025-10-21 08:15:53
+TN256,Store 256,Supermarket,545 Main St,Lebanon,TN,37188,No,2025-10-21 08:15:53
+TN257,Store 257,Food Court,145 Elm St,Nashville,TN,37778,No,2025-10-21 08:15:53
+TN258,Store 258,Gas Station,289 Elm St,Murfreesboro,TN,37488,Yes,2025-10-21 08:15:53
+TN259,Store 259,Gas Station,530 Elm St,La Vergne,TN,37081,Yes,2025-10-21 08:15:53
+TN260,Store 260,Gas Station,815 Main St,Smyrna,TN,37550,Yes,2025-10-21 08:15:53
+TN261,Store 261,Gas Station,745 Maple Ave,La Vergne,TN,37001,Yes,2025-10-21 08:15:53
+TN262,Store 262,Convenience Store,407 Maple Ave,Lebanon,TN,37340,No,2025-10-21 08:15:53
+TN263,Store 263,Local Grocer,603 Maple Ave,Nashville,TN,37419,No,2025-10-21 08:15:53
+TN264,Store 264,Convenience Store,,Lebanon,TN,37856,Yes,2025-10-21 08:15:53
+TN265,Store 265,Local Grocer,275 Broadway,Murfreesboro,TN,37323,No,2025-10-21 08:15:53
+TN266,Store 266,Supermarket,668 Maple Ave,La Vergne,TN,37310,,2025-10-21 08:15:53
+TN267,Store 267,Supermarket,598 Broadway,Lebanon,TN,37007,Yes,2025-10-21 08:15:53
+TN268,Store 268,Gas Station,915 Main St,La Vergne,TN,37327,No,2025-10-21 08:15:53
+TN269,Store 269,Food Court,,Lebanon,TN,37030,Yes,2025-10-21 08:15:53
+TN270,Store 270,Food Court,445 Broadway,Smyrna,TN,37309,,2025-10-21 08:15:53
+TN271,Store 271,Convenience Store,248 Main St,Smyrna,TN,37174,Yes,2025-10-21 08:15:53
+TN272,Store 272,Local Grocer,484 Elm St,La Vergne,TN,37795,Yes,2025-10-21 08:15:53
+TN273,Store 273,Gas Station,498 Elm St,Lebanon,TN,37025,Yes,2025-10-21 08:15:53
+TN274,Store 274,Local Grocer,116 Elm St,Lebanon,TN,37028,Yes,2025-10-21 08:15:53
+TN275,Store 275,Food Court,771 Main St,La Vergne,TN,37852,Yes,2025-10-21 08:15:53
+TN276,Store 276,Food Court,895 Elm St,Murfreesboro,TN,37140,No,2025-10-21 08:15:53
+TN277,Store 277,Food Court,,Nashville,TN,37965,No,2025-10-21 08:15:53
+TN278,Store 278,Convenience Store,923 Broadway,La Vergne,TN,37703,No,2025-10-21 08:15:53
+TN279,Store 279,Gas Station,551 Main St,La Vergne,TN,37892,Yes,2025-10-21 08:15:53
+TN280,Store 280,Convenience Store,173 Main St,La Vergne,TN,37735,Yes,2025-10-21 08:15:53
+TN281,Store 281,Supermarket,328 Elm St,Smyrna,TN,37751,Yes,2025-10-21 08:15:53
+TN282,Store 282,Gas Station,,Lebanon,TN,37799,No,2025-10-21 08:15:53
+TN283,Store 283,Convenience Store,231 Maple Ave,Nashville,TN,37894,No,2025-10-21 08:15:53
+TN284,Store 284,Local Grocer,617 Elm St,Lebanon,TN,37570,Yes,2025-10-21 08:15:53
+TN285,Store 285,Gas Station,286 Main St,La Vergne,TN,37841,No,2025-10-21 08:15:53
+TN286,Store 286,Food Court,367 Main St,La Vergne,TN,37286,No,2025-10-21 08:15:53
+TN287,Store 287,Gas Station,870 Elm St,Smyrna,TN,37781,No,2025-10-21 08:15:53
+TN288,Store 288,Gas Station,408 Elm St,Murfreesboro,TN,,No,2025-10-21 08:15:53
+TN289,Store 289,Supermarket,811 Main St,La Vergne,TN,37667,Yes,2025-10-21 08:15:53
+TN290,Store 290,Convenience Store,949 Maple Ave,Murfreesboro,TN,37744,No,2025-10-21 08:15:53
+TN291,Store 291,Gas Station,474 Maple Ave,Lebanon,TN,37664,,2025-10-21 08:15:53
+TN292,Store 292,Food Court,,Lebanon,TN,37249,No,2025-10-21 08:15:53
+TN293,Store 293,Gas Station,300 Maple Ave,Nashville,TN,37958,Yes,2025-10-21 08:15:53
+TN294,Store 294,Supermarket,500 Maple Ave,Lebanon,TN,37756,No,2025-10-21 08:15:53
+TN295,Store 295,Local Grocer,182 Elm St,La Vergne,TN,37814,No,2025-10-21 08:15:53
+TN296,Store 296,Gas Station,419 Broadway,Lebanon,TN,,Yes,2025-10-21 08:15:53
+TN297,Store 297,Convenience Store,825 Maple Ave,La Vergne,TN,37843,No,2025-10-21 08:15:53
+TN298,Store 298,Gas Station,332 Elm St,Lebanon,TN,37054,No,2025-10-21 08:15:53
+TN299,Store 299,Supermarket,,Lebanon,TN,37004,Yes,2025-10-21 08:15:53
+TN300,Store 300,Local Grocer,435 Broadway,Nashville,TN,37486,No,2025-10-21 08:15:53
+TN301,Store 301,Gas Station,871 Maple Ave,Lebanon,TN,37739,Yes,2025-10-21 08:15:53
+TN302,Store 302,Gas Station,118 Elm St,Smyrna,TN,37527,No,2025-10-21 08:15:53
+TN303,Store 303,Food Court,603 Maple Ave,Smyrna,TN,37255,No,2025-10-21 08:15:53
+TN304,Store 304,Supermarket,200 Maple Ave,Smyrna,TN,37313,No,2025-10-21 08:15:53
+TN305,Store 305,Food Court,179 Maple Ave,Murfreesboro,TN,37458,,2025-10-21 08:15:53
