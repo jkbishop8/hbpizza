@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project simulates a full-stack data analytics pipeline for a fictitious pizza and wings business, Hunt Advantage Group LLC. It showcases real-world data engineering practices using a medallion architecture (Bronze → Silver → Gold), Power BI reporting, and strategic orchestration under platform and licensing constraints.
+This project simulates a full-stack data analytics pipeline for a fictitious pizza and wings business, Hunt Advantage Group LLC. It showcases real-world data engineering practices using a medallion architecture (Bronze → Silver → Gold), Power BI reporting, and strategic orchestration under platform and licensing constraints. This project injects real world data chaos with the use of autogen python scripts causing correlations but not causations. It is an ongoing experiment to hone in on data wrangling skills.
 
 The goal is to demonstrate technical depth, business storytelling, and adaptability in building scalable analytics solutions.
 
@@ -49,10 +49,11 @@ The goal is to demonstrate technical depth, business storytelling, and adaptabil
 - **Report**: `pizza_reporting.pbix`
 - **Version Control**: `.pbit` templates stored in `/powerbi_templates/`
 - **Visuals**:
-  - Sales by store and region
-  - Sentiment trends
-  - Inventory cost vs. usage
-  - Delivery time heatmaps
+  - Stacked columns for categorical comparisons.
+  - Treemaps for Sales
+  - Stacked bar for toppings count
+  - Cluster column for date comparisons
+  - Stacked columns for trend averages
 
 ---
 
@@ -60,7 +61,7 @@ The goal is to demonstrate technical depth, business storytelling, and adaptabil
 
 | Restriction | Workaround |
 |------------|------------|
-| Fabric trial provisioning failed | Pivoted to local medallion architecture using CSVs and Python |
+| Fabric trial provisioning expired | Pivoted to local medallion architecture using CSVs and Python |
 | No OneDrive for Business | Used Power BI Desktop with local files and manual upload |
 | Limited Dataflow Gen1 connectors | Published `.pbix` to activate workspace and unlock gateway |
 | No Power BI Pro license | Used “Upload” feature in Power BI Service |
