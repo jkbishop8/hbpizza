@@ -1,6 +1,7 @@
 import pandas as pd
 import random
 import os
+from datetime import datetime
 
 # Load existing metrics
 folder_path = os.path.join("C:\\","Users","fboy","source","repos", "HBPizza", "data_ingestion", "csv_data", "bronze")
@@ -19,6 +20,7 @@ for i in range(100):
     region = random.choice(regions)
     total_sales = random.randint(5000, 15000)
     avg_delivery_time = random.randint(25, 60)
+    ingestion_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Simulate missing metrics
     if random.random() < 0.08: total_sales = ""
@@ -28,7 +30,8 @@ for i in range(100):
         "store_id": store_id,
         "region": region,
         "total_sales": total_sales,
-        "avg_delivery_time": avg_delivery_time
+        "avg_delivery_time": avg_delivery_time,
+        "ingestion_timestamp": ingestion_timestamp
     })
 
 # Append and save

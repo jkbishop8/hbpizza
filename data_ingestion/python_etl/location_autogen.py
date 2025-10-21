@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 import os
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # Load existing data
 # Load existing inventory
