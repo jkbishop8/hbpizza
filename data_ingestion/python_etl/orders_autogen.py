@@ -24,6 +24,7 @@ for i in range(100):
     pizza_size = random.choice(pizza_sizes)
     toppings = ";".join(random.sample(topping_pool, random.randint(1, 3)))
     total_price = round(random.uniform(10.0, 22.0), 2)
+    ingestion_timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     # Simulate missing data
     if random.random() < 0.05: timestamp = ""
@@ -36,7 +37,8 @@ for i in range(100):
         "store_id": store_id,
         "pizza_size": pizza_size,
         "toppings": toppings,
-        "total_price": total_price
+        "total_price": total_price,
+        "ingestion_timestamp": ingestion_timestamp
     })
 
 # Append and save
