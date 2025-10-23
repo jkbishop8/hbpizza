@@ -6,6 +6,9 @@ This project simulates a full-stack data analytics pipeline for a fictitious piz
 
 The goal is to demonstrate technical depth, business storytelling, and adaptability in building scalable analytics solutions.
 
+Current phase:
+Migrating silver layers that were in Microsoft Fabric into Metabase.
+
 ---
 
 ## Architecture
