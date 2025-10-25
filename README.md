@@ -7,6 +7,7 @@ This project simulates a full-stack data analytics pipeline for a fictitious piz
 The goal is to demonstrate technical depth, business storytelling, and adaptability in building scalable analytics solutions.
 
 🔄 Current Phase: Chaos, Localized
+
 Backing away from cloud-based Silver stage due to Fabric expiration. Pivoting to a local medallion architecture:
 
 Building the database locally
